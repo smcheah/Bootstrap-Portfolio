@@ -5,11 +5,9 @@ body {
     font-family: 'Baloo Tamma 2';
 }
 h1 {
-    display: inline;
     padding: 0 10px;
-    background-color: #D4EDED;
 }
-p{
+h1, p{
     display: inline;
     background-color: #D4EDED;
 }
@@ -28,7 +26,7 @@ nav {
 }
 .content {
     background-color: #A8DADC;
-    margin: 80px 0;
+    margin: 80px 10px;
     padding: 40px;
 }
 
@@ -37,14 +35,31 @@ nav {
     margin-right: 17px;
     margin-bottom: 10px;
     width: 40%;
-    min-width: 200px;
+    min-width: 150px;
+}
+.portfolio .col-lg-6 {
+    margin: auto;
 }
 .portfolio img {
-    margin: 15px 0;
+    display: block;
+    padding: 15px 0;
     width: 100%;
+}
+.inline-elements {
+    display: flex;
+    justify-content: space-between;
 }
 .contact button {
     background-color: #595959;
+}
+.social-icons {
+    margin: auto 0;
+}
+.social-icons i {
+    padding: 6px 0 0 15px;
+    font-size: 1.5em;
+    color: #4e4e4e;
+    text-decoration: none;
 }
 
 footer {
