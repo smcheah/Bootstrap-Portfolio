@@ -1,9 +1,8 @@
 # Responsive-Portfolio
 TODO: include screenshots, add comments to html and css
 
-![](https://media.giphy.com/media/YqtWqXwyEYW6oWun60/giphy.gif)
 ![](https://media.giphy.com/media/gFQQPPHSGATLOIaWDr/giphy.gif)
-![Image from Gyazo](https://i.gyazo.com/0d5df3a122e16bb705619d8ace55be9d.gif)](https://gyazo.com/0d5df3a122e16bb705619d8ace55be9d)
+![Image from Gyazo](https://i.gyazo.com/0d5df3a122e16bb705619d8ace55be9d.gif)
 
 Deployed site link: https://smcheah.github.io/Bootstrap-Portfolio/
 
