@@ -1,5 +1,5 @@
 # Responsive-Portfolio
-(include screenshots)
+TODO: include screenshots, add comments to html and css
 
 Deployed site link: https://smcheah.github.io/Bootstrap-Portfolio/
 
