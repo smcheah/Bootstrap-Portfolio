@@ -1,5 +1,4 @@
 # Responsive-Portfolio
-TODO: include screenshots, add comments to html and css
 
 <img src="https://media.giphy.com/media/gFQQPPHSGATLOIaWDr/giphy.gif" width="400"/>
 <img src="https://i.gyazo.com/417beda22a6c6bc327666e27fc62a995.png" width="200"/>
