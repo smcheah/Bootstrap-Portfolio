@@ -1,3 +1,4 @@
+/* font-family for entire website */
 @import url('https://fonts.googleapis.com/css2?family=Baloo+Tamma+2:wght@400;600;800&display=swap');
 
 body {
@@ -12,6 +13,7 @@ h1, p{
     background-color: #D4EDED;
 }
 
+/* nav elements */
 nav {
     background-color: #F08080;
     font-weight: bolder;
@@ -21,6 +23,7 @@ nav {
     line-height: 0.5;
 }
 
+/* general containers containing main section info */
 .container {
     min-height: 88.2vh;
 }
@@ -30,6 +33,7 @@ nav {
     padding: 40px;
 }
 
+/* index.html image styling */
 .index div img {
     float: left;
     margin-right: 17px;
@@ -37,6 +41,7 @@ nav {
     width: 40%;
     min-width: 150px;
 }
+/* portfolio.html styling */
 .portfolio .col-lg-6 {
     margin: auto;
 }
@@ -49,6 +54,7 @@ nav {
     display: flex;
     justify-content: space-between;
 }
+/* contact.html styling */
 .contact button {
     background-color: #595959;
 }
@@ -62,6 +68,7 @@ nav {
     text-decoration: none;
 }
 
+/* footer that sort of stays at the bottom */
 footer {
     color: white;
     text-align: center;
