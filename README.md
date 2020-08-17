@@ -2,7 +2,7 @@
 TODO: include screenshots, add comments to html and css
 
 ![](https://media.giphy.com/media/gFQQPPHSGATLOIaWDr/giphy.gif)
-![Image from Gyazo](https://i.gyazo.com/0d5df3a122e16bb705619d8ace55be9d.gif)
+![Image from Gyazo](https://gyazo.com/0d5df3a122e16bb705619d8ace55be9d)
 
 Deployed site link: https://smcheah.github.io/Bootstrap-Portfolio/
 
